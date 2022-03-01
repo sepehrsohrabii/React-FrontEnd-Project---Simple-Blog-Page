@@ -1,0 +1,29 @@
+.header {
+    padding: 2rem;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5rem;
+}
+
+.postList {
+    background-color: white;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 1rem;
+}
+
+.post {
+    background-color: #ebebeb;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.title {
+    font-size: 2rem;
+    color: blue;
+    cursor: cell;
+    font-weight: bold;
+}
